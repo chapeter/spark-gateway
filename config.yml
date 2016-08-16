@@ -1,0 +1,13 @@
+spark:
+  url: https://api.ciscospark.com
+
+plugins:
+  mqtt:
+    server: 192.168.10.25
+    port: 1883
+    default_qos: 0
+    rooms:
+      Corbin Home:
+        - smartthings/Office Light/#
+      Corbin Home3:
+        - smartthings/Workshop/#

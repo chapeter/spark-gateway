@@ -1,0 +1,4 @@
+spark-python==0.0.6
+requests==2.6.2
+paho-mqtt==1.1
+pyyaml
