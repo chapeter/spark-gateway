@@ -4,15 +4,16 @@ Spark Gateway
 A pluggable gateway for sending Cisco Spark messages
 
 
-# Installation
-
-
 ## Supported Plugins
 
 * MQTT
 
 
-# Roadmap
+## Installation
+
+
+
+## Roadmap
 
 * File Plugin
 * Syslog
